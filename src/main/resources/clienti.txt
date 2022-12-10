@@ -1,0 +1,2 @@
+1|tizio|caio|via Immacolata, 12|tcaio@gmail.com|1234567|1
+2|sempronio|pincopallino|via Roma, 13|spincopallino@gmail.com|3334568|2
